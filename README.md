@@ -1,5 +1,5 @@
 # UT-DS-KNIME-Advanced
-The advanced version of Data Science with KNIME course at the University of Tehran
+Data Science with KNIME (Advanced) course - University of Tehran
 -----------------------------------------------------
 Review Assignment 1: Complete this assignment by Mehr 6, 12 PM.
 

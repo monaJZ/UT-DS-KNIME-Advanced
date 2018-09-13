@@ -5,7 +5,7 @@ Review Assignment 1: Complete this assignment by Mehr 6, 12 PM.
 
 Task 1: Read cars-85.xlsx including only the following columns: make, fuel_type, cylinders_nr, horse_power, city_mpg, highway_mpg and price.
 
-Task 2: Exclude the cars which their "make" column value is "jaguar"
+Task 2: Exclude the cars which their "make" value is "jaguar".
 
 Task 3: Handle the missing values by inputing the rounded average for horse_power and removing the whole row for other columns.
 

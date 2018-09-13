@@ -1,6 +1,6 @@
 # UT-DS-KNIME-Advanced
 The advanced version of Data Science with KNIME course at the University of Tehran
-
+-----------------------------------------------------
 Review Assignment 1: Complete this assignment by Mehr 6, 12 PM.
 
 Task 1: Read cars-85.xlsx including only the following columns: make, fuel_type, cylinders_nr, horse_power, city_mpg, highway_mpg and price.
